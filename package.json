@@ -1,0 +1,23 @@
+{
+  "name": "practica-11-contenido-estatico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnyDeCoder/Practica-11-Contenido-Estatico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnyDeCoder/Practica-11-Contenido-Estatico/issues"
+  },
+  "homepage": "https://github.com/JohnyDeCoder/Practica-11-Contenido-Estatico#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
